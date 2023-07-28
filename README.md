@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ManishBhamare/ManishBhamare/blob/main/Manish%20Bhamare.jpg)
 <h1 align="center">Hi 👋, I'm Manish Bhamare</h1>
 <h3 align="center">A passionate Data Scientist and Web developer from India</h3>
 
